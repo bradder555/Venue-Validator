@@ -8,4 +8,14 @@ Cross-platform development with a minimal set of common tools
 
 * MSYS2 or nix
 * Mono or .Net compiler (depending on targeted OS)
+* Paket
 * An IDE
+
+## Not required
+
+* Node
+* Python
+* Ruby
+* ...
+
+
